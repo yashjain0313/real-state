@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import {
   Search,
-  Filter,
   MapPin,
   Bed,
   Bath,
@@ -13,7 +12,6 @@ import {
   DollarSign,
   Menu,
   X,
-  ChevronDown,
 } from "lucide-react";
 
 const App = () => {
